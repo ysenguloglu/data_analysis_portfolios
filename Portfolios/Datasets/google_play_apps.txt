@@ -1,0 +1,3 @@
+Here is URL. You can download here Google Playstore Apps Dataset :)
+
+https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
