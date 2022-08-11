@@ -15,7 +15,7 @@ Stroke Risk Dashboard
 ![image](https://user-images.githubusercontent.com/108932053/184177739-d8e2f63f-9dd5-4023-a2ee-e000e9949f27.png)
 Google Play Apps Rating Dashboard
 ![image](https://user-images.githubusercontent.com/108932053/184177957-2508cf5b-5784-4ba8-8cd0-21328685e8cc.png)
-Electriciy Production Size by Countries Dashboard
+Electricity Production Size by Countries Dashboard
 ![image](https://user-images.githubusercontent.com/108932053/184178782-9c8779f2-8718-46e5-b74e-3f6e65a619e4.png)
 RFM Analysis Dashboard
 ![image](https://user-images.githubusercontent.com/108932053/184179062-dc501a6b-7c13-43c9-b97e-26dca4a522ce.png)
