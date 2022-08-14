@@ -11,6 +11,8 @@ Here is some examples of my dashboards:
 
 Revenue-Employee-Customer Tracking Dashboard
 ![image](https://user-images.githubusercontent.com/108932053/184178964-3c59a5e2-af4b-4c31-a084-65a8bc383717.png)
+Sales Dashboard
+![Sales](https://user-images.githubusercontent.com/108932053/184533603-43da6440-932b-433d-b384-d26573f4670d.png)
 Stroke Risk Dashboard
 ![image](https://user-images.githubusercontent.com/108932053/184177739-d8e2f63f-9dd5-4023-a2ee-e000e9949f27.png)
 Google Play Apps Rating Dashboard
